@@ -1,0 +1,17 @@
+.externalcss {
+    background-color: rgb(221, 15, 15);
+    color: blue;
+    text-align: center;
+    font-size: larger;
+
+    main {
+        border: 5px;
+    }
+}
+
+footer {
+    color: aquamarine;
+    background-color: blue;
+    text-align: center;
+
+}
